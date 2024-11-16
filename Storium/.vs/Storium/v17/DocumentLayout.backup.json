@@ -1,12 +1,274 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Projects\\OnlineStore\\Storium\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Projects\\storium-ddd\\Storium\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|c:\\projects\\storium-ddd\\storium\\storium.infrastructure\\storium.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|solutionrelative:storium.infrastructure\\storium.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|c:\\projects\\storium-ddd\\storium\\storium.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|solutionrelative:storium.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|c:\\projects\\storium-ddd\\storium\\storium.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|solutionrelative:storium.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|c:\\projects\\storium-ddd\\storium\\storium.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|solutionrelative:storium.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|c:\\projects\\storium-ddd\\storium\\storium.domain\\services\\ordervalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|solutionrelative:storium.domain\\services\\ordervalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|c:\\projects\\storium-ddd\\storium\\storium.domain\\valueobjects\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|solutionrelative:storium.domain\\valueobjects\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|c:\\projects\\storium-ddd\\storium\\storium.domain\\valueobjects\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|solutionrelative:storium.domain\\valueobjects\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|c:\\projects\\storium-ddd\\storium\\storium.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|solutionrelative:storium.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|c:\\projects\\storium-ddd\\storium\\storium.domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|solutionrelative:storium.domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|c:\\projects\\storium-ddd\\storium\\storium.domain\\enums\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|solutionrelative:storium.domain\\enums\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|c:\\projects\\storium-ddd\\storium\\storium.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|solutionrelative:storium.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|c:\\projects\\storium-ddd\\storium\\storium.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|solutionrelative:storium.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|c:\\projects\\storium-ddd\\storium\\storium.domain\\storium.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|solutionrelative:storium.domain\\storium.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1973B6-3BCD-47E1-A8FF-CB33BB44586A}|Storium.Test.Integration\\Storium.Test.Integration.csproj|c:\\projects\\storium-ddd\\storium\\storium.test.integration\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1973B6-3BCD-47E1-A8FF-CB33BB44586A}|Storium.Test.Integration\\Storium.Test.Integration.csproj|solutionrelative:storium.test.integration\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A9ED0F-B6BE-4BE0-B251-38803F5FBC4E}|Storium.Test.Unit\\Storium.Test.Unit.csproj|c:\\projects\\storium-ddd\\storium\\storium.test.unit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A9ED0F-B6BE-4BE0-B251-38803F5FBC4E}|Storium.Test.Unit\\Storium.Test.Unit.csproj|solutionrelative:storium.test.unit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Storium.Infrastructure",
+              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Storium.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Storium.Infrastructure\\Storium.Infrastructure.csproj",
+              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Storium.Infrastructure.csproj",
+              "RelativeToolTip": "Storium.Infrastructure\\Storium.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-16T19:45:05.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Storium.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "Storium.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:00:10.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderValidationService.cs",
+              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Services\\OrderValidationService.cs",
+              "RelativeDocumentMoniker": "Storium.Domain\\Services\\OrderValidationService.cs",
+              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Services\\OrderValidationService.cs",
+              "RelativeToolTip": "Storium.Domain\\Services\\OrderValidationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:59:25.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "Storium.Domain\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "Storium.Domain\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:57:31.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\ValueObjects\\Address.cs",
+              "RelativeDocumentMoniker": "Storium.Domain\\ValueObjects\\Address.cs",
+              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\ValueObjects\\Address.cs",
+              "RelativeToolTip": "Storium.Domain\\ValueObjects\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:56:50.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Storium.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Storium.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:56:17.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Enums\\Currency.cs",
+              "RelativeDocumentMoniker": "Storium.Domain\\Enums\\Currency.cs",
+              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Enums\\Currency.cs",
+              "RelativeToolTip": "Storium.Domain\\Enums\\Currency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:55:39.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Money.cs",
+              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\ValueObjects\\Money.cs",
+              "RelativeDocumentMoniker": "Storium.Domain\\ValueObjects\\Money.cs",
+              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\ValueObjects\\Money.cs",
+              "RelativeToolTip": "Storium.Domain\\ValueObjects\\Money.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:54:35.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Storium.Domain\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "Storium.Domain\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:53:44.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Storium.Domain\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "Storium.Domain\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:51:45.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Storium.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "Storium.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:50:15.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Storium.Domain",
+              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Storium.Domain.csproj",
+              "RelativeDocumentMoniker": "Storium.Domain\\Storium.Domain.csproj",
+              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Storium.Domain.csproj",
+              "RelativeToolTip": "Storium.Domain\\Storium.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-16T18:49:28.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "Storium.Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "Storium.Domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:48:40.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Test.Integration\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Storium.Test.Integration\\UnitTest1.cs",
+              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Test.Integration\\UnitTest1.cs",
+              "RelativeToolTip": "Storium.Test.Integration\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:00:37.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Test.Unit\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Storium.Test.Unit\\UnitTest1.cs",
+              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Test.Unit\\UnitTest1.cs",
+              "RelativeToolTip": "Storium.Test.Unit\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:00:04.428Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
