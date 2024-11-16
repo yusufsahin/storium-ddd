@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\OnlineStore\\Storium\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1973B6-3BCD-47E1-A8FF-CB33BB44586A}|Storium.Test.Integration\\Storium.Test.Integration.csproj|c:\\projects\\onlinestore\\storium\\storium.test.integration\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1973B6-3BCD-47E1-A8FF-CB33BB44586A}|Storium.Test.Integration\\Storium.Test.Integration.csproj|solutionrelative:storium.test.integration\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A9ED0F-B6BE-4BE0-B251-38803F5FBC4E}|Storium.Test.Unit\\Storium.Test.Unit.csproj|c:\\projects\\onlinestore\\storium\\storium.test.unit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A9ED0F-B6BE-4BE0-B251-38803F5FBC4E}|Storium.Test.Unit\\Storium.Test.Unit.csproj|solutionrelative:storium.test.unit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|c:\\projects\\onlinestore\\storium\\storium.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|solutionrelative:storium.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|c:\\projects\\onlinestore\\storium\\storium.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|solutionrelative:storium.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|c:\\projects\\onlinestore\\storium\\storium.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|solutionrelative:storium.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Projects\\OnlineStore\\Storium\\Storium.Test.Integration\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Storium.Test.Integration\\UnitTest1.cs",
+              "ToolTip": "C:\\Projects\\OnlineStore\\Storium\\Storium.Test.Integration\\UnitTest1.cs",
+              "RelativeToolTip": "Storium.Test.Integration\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:00:37.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Projects\\OnlineStore\\Storium\\Storium.Test.Unit\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Storium.Test.Unit\\UnitTest1.cs",
+              "ToolTip": "C:\\Projects\\OnlineStore\\Storium\\Storium.Test.Unit\\UnitTest1.cs",
+              "RelativeToolTip": "Storium.Test.Unit\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:00:04.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Projects\\OnlineStore\\Storium\\Storium.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Storium.Application\\Class1.cs",
+              "ToolTip": "C:\\Projects\\OnlineStore\\Storium\\Storium.Application\\Class1.cs",
+              "RelativeToolTip": "Storium.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T17:56:30.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Projects\\OnlineStore\\Storium\\Storium.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Storium.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Projects\\OnlineStore\\Storium\\Storium.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Storium.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T17:55:40.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Projects\\OnlineStore\\Storium\\Storium.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Storium.Domain\\Class1.cs",
+              "ToolTip": "C:\\Projects\\OnlineStore\\Storium\\Storium.Domain\\Class1.cs",
+              "RelativeToolTip": "Storium.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T17:54:21.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
