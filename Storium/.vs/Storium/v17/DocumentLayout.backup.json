@@ -3,132 +3,84 @@
   "WorkspaceRootPath": "C:\\Projects\\storium-ddd\\Storium\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|c:\\projects\\storium-ddd\\storium\\storium.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|solutionrelative:storium.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|c:\\projects\\storium-ddd\\storium\\storium.application\\validations\\valueobjects\\addressdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|solutionrelative:storium.application\\validations\\valueobjects\\addressdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|c:\\projects\\storium-ddd\\storium\\storium.infrastructure\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|solutionrelative:storium.infrastructure\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|c:\\projects\\storium-ddd\\storium\\storium.application\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|solutionrelative:storium.application\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|c:\\projects\\storium-ddd\\storium\\storium.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|solutionrelative:storium.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|c:\\projects\\storium-ddd\\storium\\storium.infrastructure\\repositories\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|solutionrelative:storium.infrastructure\\repositories\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|c:\\projects\\storium-ddd\\storium\\storium.infrastructure\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|solutionrelative:storium.infrastructure\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|c:\\projects\\storium-ddd\\storium\\storium.infrastructure\\services\\migrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|solutionrelative:storium.infrastructure\\services\\migrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|c:\\projects\\storium-ddd\\storium\\storium.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|solutionrelative:storium.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|c:\\projects\\storium-ddd\\storium\\storium.infrastructure\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|solutionrelative:storium.infrastructure\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|c:\\projects\\storium-ddd\\storium\\storium.infrastructure\\repositories\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|solutionrelative:storium.infrastructure\\repositories\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|c:\\projects\\storium-ddd\\storium\\storium.application\\validators\\createcustomercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|solutionrelative:storium.application\\validators\\createcustomercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|c:\\projects\\storium-ddd\\storium\\storium.infrastructure\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|solutionrelative:storium.infrastructure\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|c:\\projects\\storium-ddd\\storium\\storium.application\\services\\orderapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|solutionrelative:storium.application\\services\\orderapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|c:\\projects\\storium-ddd\\storium\\storium.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|solutionrelative:storium.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|c:\\projects\\storium-ddd\\storium\\storium.application\\commands\\products\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|solutionrelative:storium.application\\commands\\products\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|c:\\projects\\storium-ddd\\storium\\storium.application\\commands\\categories\\createcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|solutionrelative:storium.application\\commands\\categories\\createcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|c:\\projects\\storium-ddd\\storium\\storium.application\\commands\\products\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|solutionrelative:storium.application\\commands\\products\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|c:\\projects\\storium-ddd\\storium\\storium.application\\commands\\categories\\updatecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|solutionrelative:storium.application\\commands\\categories\\updatecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|c:\\projects\\storium-ddd\\storium\\storium.application\\queries\\categories\\getcategorybyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|solutionrelative:storium.application\\queries\\categories\\getcategorybyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|c:\\projects\\storium-ddd\\storium\\storium.application\\queries\\categories\\getallcategoriesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|solutionrelative:storium.application\\queries\\categories\\getallcategoriesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|c:\\projects\\storium-ddd\\storium\\storium.application\\handlers\\queries\\products\\getproductbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|solutionrelative:storium.application\\handlers\\queries\\products\\getproductbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|c:\\projects\\storium-ddd\\storium\\storium.application\\handlers\\commands\\customers\\createcustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|solutionrelative:storium.application\\handlers\\commands\\customers\\createcustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|c:\\projects\\storium-ddd\\storium\\storium.infrastructure\\repositories\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|solutionrelative:storium.infrastructure\\repositories\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|c:\\projects\\storium-ddd\\storium\\storium.infrastructure\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|solutionrelative:storium.infrastructure\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|c:\\projects\\storium-ddd\\storium\\storium.application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|solutionrelative:storium.application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|c:\\projects\\storium-ddd\\storium\\storium.infrastructure\\configurations\\orderitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|solutionrelative:storium.infrastructure\\configurations\\orderitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|c:\\projects\\storium-ddd\\storium\\storium.application\\validations\\customers\\createcustomercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|solutionrelative:storium.application\\validations\\customers\\createcustomercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|c:\\projects\\storium-ddd\\storium\\storium.infrastructure\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|solutionrelative:storium.infrastructure\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|c:\\projects\\storium-ddd\\storium\\storium.application\\handlers\\queries\\orders\\getorderdetailsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|solutionrelative:storium.application\\handlers\\queries\\orders\\getorderdetailsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|c:\\projects\\storium-ddd\\storium\\storium.infrastructure\\configurations\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|solutionrelative:storium.infrastructure\\configurations\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|c:\\projects\\storium-ddd\\storium\\storium.infrastructure\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|solutionrelative:storium.infrastructure\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|c:\\projects\\storium-ddd\\storium\\storium.infrastructure\\data\\storiumdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|solutionrelative:storium.infrastructure\\data\\storiumdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|c:\\projects\\storium-ddd\\storium\\storium.infrastructure\\storium.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F63BE487-87B7-4DB1-A8E8-E6784D7D9C25}|Storium.Infrastructure\\Storium.Infrastructure.csproj|solutionrelative:storium.infrastructure\\storium.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|c:\\projects\\storium-ddd\\storium\\storium.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|solutionrelative:storium.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|c:\\projects\\storium-ddd\\storium\\storium.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|solutionrelative:storium.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|c:\\projects\\storium-ddd\\storium\\storium.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|solutionrelative:storium.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|c:\\projects\\storium-ddd\\storium\\storium.domain\\services\\ordervalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|solutionrelative:storium.domain\\services\\ordervalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|c:\\projects\\storium-ddd\\storium\\storium.application\\dtos\\moneydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EB546F-4652-432B-835B-9A343964F09F}|Storium.Application\\Storium.Application.csproj|solutionrelative:storium.application\\dtos\\moneydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|c:\\projects\\storium-ddd\\storium\\storium.domain\\valueobjects\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|solutionrelative:storium.domain\\valueobjects\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|c:\\projects\\storium-ddd\\storium\\storium.domain\\valueobjects\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|solutionrelative:storium.domain\\valueobjects\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|c:\\projects\\storium-ddd\\storium\\storium.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|solutionrelative:storium.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|c:\\projects\\storium-ddd\\storium\\storium.domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|solutionrelative:storium.domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|c:\\projects\\storium-ddd\\storium\\storium.domain\\enums\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|solutionrelative:storium.domain\\enums\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|c:\\projects\\storium-ddd\\storium\\storium.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|solutionrelative:storium.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|c:\\projects\\storium-ddd\\storium\\storium.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|solutionrelative:storium.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|c:\\projects\\storium-ddd\\storium\\storium.domain\\storium.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DBC1EDE4-FA7B-4095-B595-30A6C192115E}|Storium.Domain\\Storium.Domain.csproj|solutionrelative:storium.domain\\storium.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B1973B6-3BCD-47E1-A8FF-CB33BB44586A}|Storium.Test.Integration\\Storium.Test.Integration.csproj|c:\\projects\\storium-ddd\\storium\\storium.test.integration\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B1973B6-3BCD-47E1-A8FF-CB33BB44586A}|Storium.Test.Integration\\Storium.Test.Integration.csproj|solutionrelative:storium.test.integration\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11A9ED0F-B6BE-4BE0-B251-38803F5FBC4E}|Storium.Test.Unit\\Storium.Test.Unit.csproj|c:\\projects\\storium-ddd\\storium\\storium.test.unit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11A9ED0F-B6BE-4BE0-B251-38803F5FBC4E}|Storium.Test.Unit\\Storium.Test.Unit.csproj|solutionrelative:storium.test.unit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -138,422 +90,266 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Repositories\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "Storium.Infrastructure\\Repositories\\CategoryRepository.cs",
-              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Repositories\\CategoryRepository.cs",
-              "RelativeToolTip": "Storium.Infrastructure\\Repositories\\CategoryRepository.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T20:20:50.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Storium.Infrastructure\\Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "Storium.Infrastructure\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Title": "AddressDtoValidator.cs",
+              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Application\\Validations\\ValueObjects\\AddressDtoValidator.cs",
+              "RelativeDocumentMoniker": "Storium.Application\\Validations\\ValueObjects\\AddressDtoValidator.cs",
+              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Application\\Validations\\ValueObjects\\AddressDtoValidator.cs",
+              "RelativeToolTip": "Storium.Application\\Validations\\ValueObjects\\AddressDtoValidator.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T20:19:37.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Repositories\\Interfaces\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "Storium.Infrastructure\\Repositories\\Interfaces\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Repositories\\Interfaces\\ICategoryRepository.cs",
-              "RelativeToolTip": "Storium.Infrastructure\\Repositories\\Interfaces\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T20:18:49.118Z",
+              "WhenOpened": "2024-11-16T22:22:47.868Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Repositories\\Interfaces\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Storium.Infrastructure\\Repositories\\Interfaces\\IProductRepository.cs",
-              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Repositories\\Interfaces\\IProductRepository.cs",
-              "RelativeToolTip": "Storium.Infrastructure\\Repositories\\Interfaces\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Application\\DTOs\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "Storium.Application\\DTOs\\CustomerDto.cs",
+              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Application\\DTOs\\CustomerDto.cs",
+              "RelativeToolTip": "Storium.Application\\DTOs\\CustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T20:18:25.588Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Repositories\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "Storium.Infrastructure\\Repositories\\OrderRepository.cs",
-              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Repositories\\OrderRepository.cs",
-              "RelativeToolTip": "Storium.Infrastructure\\Repositories\\OrderRepository.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAqwDsAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T20:17:36.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "OrderItemRepository.cs",
-              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Repositories\\OrderItemRepository.cs",
-              "RelativeDocumentMoniker": "Storium.Infrastructure\\Repositories\\OrderItemRepository.cs",
-              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Repositories\\OrderItemRepository.cs",
-              "RelativeToolTip": "Storium.Infrastructure\\Repositories\\OrderItemRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T20:17:34.479Z",
+              "WhenOpened": "2024-11-16T22:22:28.667Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ServiceCollectionExtensions.cs",
-              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
-              "RelativeDocumentMoniker": "Storium.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
-              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
-              "RelativeToolTip": "Storium.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Title": "OrderApplicationService.cs",
+              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Application\\Services\\OrderApplicationService.cs",
+              "RelativeDocumentMoniker": "Storium.Application\\Services\\OrderApplicationService.cs",
+              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Application\\Services\\OrderApplicationService.cs",
+              "RelativeToolTip": "Storium.Application\\Services\\OrderApplicationService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowCsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T20:07:48.399Z",
+              "WhenOpened": "2024-11-16T22:20:32.116Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MigrationService.cs",
-              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Services\\MigrationService.cs",
-              "RelativeDocumentMoniker": "Storium.Infrastructure\\Services\\MigrationService.cs",
-              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Services\\MigrationService.cs",
-              "RelativeToolTip": "Storium.Infrastructure\\Services\\MigrationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Application\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Storium.Application\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Application\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "Storium.Application\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T20:08:47.762Z",
+              "WhenOpened": "2024-11-16T22:20:13.096Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Repositories\\Interfaces\\IOrderRepository.cs",
-              "RelativeDocumentMoniker": "Storium.Infrastructure\\Repositories\\Interfaces\\IOrderRepository.cs",
-              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Repositories\\Interfaces\\IOrderRepository.cs",
-              "RelativeToolTip": "Storium.Infrastructure\\Repositories\\Interfaces\\IOrderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Application\\Commands\\Products\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "Storium.Application\\Commands\\Products\\CreateProductCommand.cs",
+              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Application\\Commands\\Products\\CreateProductCommand.cs",
+              "RelativeToolTip": "Storium.Application\\Commands\\Products\\CreateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T20:17:05.709Z",
+              "WhenOpened": "2024-11-16T22:20:08.235Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "UpdateCategoryCommand.cs",
+              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Application\\Commands\\Categories\\UpdateCategoryCommand.cs",
+              "RelativeDocumentMoniker": "Storium.Application\\Commands\\Categories\\UpdateCategoryCommand.cs",
+              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Application\\Commands\\Categories\\UpdateCategoryCommand.cs",
+              "RelativeToolTip": "Storium.Application\\Commands\\Categories\\UpdateCategoryCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T22:20:00.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateProductCommand.cs",
+              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Application\\Commands\\Products\\UpdateProductCommand.cs",
+              "RelativeDocumentMoniker": "Storium.Application\\Commands\\Products\\UpdateProductCommand.cs",
+              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Application\\Commands\\Products\\UpdateProductCommand.cs",
+              "RelativeToolTip": "Storium.Application\\Commands\\Products\\UpdateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T22:19:55.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateCategoryCommand.cs",
+              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Application\\Commands\\Categories\\CreateCategoryCommand.cs",
+              "RelativeDocumentMoniker": "Storium.Application\\Commands\\Categories\\CreateCategoryCommand.cs",
+              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Application\\Commands\\Categories\\CreateCategoryCommand.cs",
+              "RelativeToolTip": "Storium.Application\\Commands\\Categories\\CreateCategoryCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T22:19:20.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CustomerRepository.cs",
               "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Repositories\\CustomerRepository.cs",
               "RelativeDocumentMoniker": "Storium.Infrastructure\\Repositories\\CustomerRepository.cs",
               "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Repositories\\CustomerRepository.cs",
               "RelativeToolTip": "Storium.Infrastructure\\Repositories\\CustomerRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAtwAsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T20:17:31.482Z",
+              "WhenOpened": "2024-11-16T22:12:18.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateCustomerCommandValidator.cs",
+              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Application\\Validators\\CreateCustomerCommandValidator.cs",
+              "RelativeDocumentMoniker": "Storium.Application\\Validators\\CreateCustomerCommandValidator.cs",
+              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Application\\Validators\\CreateCustomerCommandValidator.cs",
+              "RelativeToolTip": "Storium.Application\\Validators\\CreateCustomerCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T22:05:49.957Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "ICustomerRepository.cs",
-              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Repositories\\Interfaces\\ICustomerRepository.cs",
-              "RelativeDocumentMoniker": "Storium.Infrastructure\\Repositories\\Interfaces\\ICustomerRepository.cs",
-              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Repositories\\Interfaces\\ICustomerRepository.cs",
-              "RelativeToolTip": "Storium.Infrastructure\\Repositories\\Interfaces\\ICustomerRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "GetCategoryByIdQuery.cs",
+              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Application\\Queries\\Categories\\GetCategoryByIdQuery.cs",
+              "RelativeDocumentMoniker": "Storium.Application\\Queries\\Categories\\GetCategoryByIdQuery.cs",
+              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Application\\Queries\\Categories\\GetCategoryByIdQuery.cs",
+              "RelativeToolTip": "Storium.Application\\Queries\\Categories\\GetCategoryByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T20:13:31.586Z",
+              "WhenOpened": "2024-11-16T22:18:38.11Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "ProductConfiguration.cs",
-              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Configurations\\ProductConfiguration.cs",
-              "RelativeDocumentMoniker": "Storium.Infrastructure\\Configurations\\ProductConfiguration.cs",
-              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Configurations\\ProductConfiguration.cs",
-              "RelativeToolTip": "Storium.Infrastructure\\Configurations\\ProductConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Title": "GetAllCategoriesQuery.cs",
+              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Application\\Queries\\Categories\\GetAllCategoriesQuery.cs",
+              "RelativeDocumentMoniker": "Storium.Application\\Queries\\Categories\\GetAllCategoriesQuery.cs",
+              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Application\\Queries\\Categories\\GetAllCategoriesQuery.cs",
+              "RelativeToolTip": "Storium.Application\\Queries\\Categories\\GetAllCategoriesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T20:04:10.326Z",
+              "WhenOpened": "2024-11-16T22:18:36.991Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "OrderItemConfiguration.cs",
-              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Configurations\\OrderItemConfiguration.cs",
-              "RelativeDocumentMoniker": "Storium.Infrastructure\\Configurations\\OrderItemConfiguration.cs",
-              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Configurations\\OrderItemConfiguration.cs",
-              "RelativeToolTip": "Storium.Infrastructure\\Configurations\\OrderItemConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Title": "GetProductByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Application\\Handlers\\Queries\\Products\\GetProductByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Storium.Application\\Handlers\\Queries\\Products\\GetProductByIdQueryHandler.cs",
+              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Application\\Handlers\\Queries\\Products\\GetProductByIdQueryHandler.cs",
+              "RelativeToolTip": "Storium.Application\\Handlers\\Queries\\Products\\GetProductByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T20:01:09.615Z",
+              "WhenOpened": "2024-11-16T22:18:31.116Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "OrderConfiguration.cs",
-              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Configurations\\OrderConfiguration.cs",
-              "RelativeDocumentMoniker": "Storium.Infrastructure\\Configurations\\OrderConfiguration.cs",
-              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Configurations\\OrderConfiguration.cs",
-              "RelativeToolTip": "Storium.Infrastructure\\Configurations\\OrderConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Title": "CreateCustomerCommandHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Application\\Handlers\\Commands\\Customers\\CreateCustomerCommandHandler.cs",
+              "RelativeDocumentMoniker": "Storium.Application\\Handlers\\Commands\\Customers\\CreateCustomerCommandHandler.cs",
+              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Application\\Handlers\\Commands\\Customers\\CreateCustomerCommandHandler.cs",
+              "RelativeToolTip": "Storium.Application\\Handlers\\Commands\\Customers\\CreateCustomerCommandHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T20:00:41.387Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CustomerConfiguration.cs",
-              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Configurations\\CustomerConfiguration.cs",
-              "RelativeDocumentMoniker": "Storium.Infrastructure\\Configurations\\CustomerConfiguration.cs",
-              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Configurations\\CustomerConfiguration.cs",
-              "RelativeToolTip": "Storium.Infrastructure\\Configurations\\CustomerConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T20:00:05.944Z",
+              "WhenOpened": "2024-11-16T22:18:22.252Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "CategoryConfiguration.cs",
-              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Configurations\\CategoryConfiguration.cs",
-              "RelativeDocumentMoniker": "Storium.Infrastructure\\Configurations\\CategoryConfiguration.cs",
-              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Configurations\\CategoryConfiguration.cs",
-              "RelativeToolTip": "Storium.Infrastructure\\Configurations\\CategoryConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Application\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Storium.Application\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Application\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Storium.Application\\Services\\CustomerService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T19:59:18.135Z",
+              "WhenOpened": "2024-11-16T22:11:40.559Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "StoriumDbContext.cs",
-              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Data\\StoriumDbContext.cs",
-              "RelativeDocumentMoniker": "Storium.Infrastructure\\Data\\StoriumDbContext.cs",
-              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Data\\StoriumDbContext.cs",
-              "RelativeToolTip": "Storium.Infrastructure\\Data\\StoriumDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Title": "CreateCustomerCommandValidator.cs",
+              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Application\\Validations\\Customers\\CreateCustomerCommandValidator.cs",
+              "RelativeDocumentMoniker": "Storium.Application\\Validations\\Customers\\CreateCustomerCommandValidator.cs",
+              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Application\\Validations\\Customers\\CreateCustomerCommandValidator.cs",
+              "RelativeToolTip": "Storium.Application\\Validations\\Customers\\CreateCustomerCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T19:55:53.293Z",
+              "WhenOpened": "2024-11-16T22:11:16.5Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Storium.Infrastructure.csproj",
-              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Storium.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "Storium.Infrastructure\\Storium.Infrastructure.csproj",
-              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Storium.Infrastructure.csproj",
-              "RelativeToolTip": "Storium.Infrastructure\\Storium.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-16T19:45:05.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "Storium.Domain\\Entities\\Category.cs",
-              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Entities\\Category.cs",
-              "RelativeToolTip": "Storium.Domain\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Storium.Infrastructure\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Infrastructure\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "RelativeToolTip": "Storium.Infrastructure\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T19:00:10.374Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "OrderValidationService.cs",
-              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Services\\OrderValidationService.cs",
-              "RelativeDocumentMoniker": "Storium.Domain\\Services\\OrderValidationService.cs",
-              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Services\\OrderValidationService.cs",
-              "RelativeToolTip": "Storium.Domain\\Services\\OrderValidationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T18:59:25.016Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "DomainException.cs",
-              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Exceptions\\DomainException.cs",
-              "RelativeDocumentMoniker": "Storium.Domain\\Exceptions\\DomainException.cs",
-              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Exceptions\\DomainException.cs",
-              "RelativeToolTip": "Storium.Domain\\Exceptions\\DomainException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T18:57:31.723Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Address.cs",
-              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\ValueObjects\\Address.cs",
-              "RelativeDocumentMoniker": "Storium.Domain\\ValueObjects\\Address.cs",
-              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\ValueObjects\\Address.cs",
-              "RelativeToolTip": "Storium.Domain\\ValueObjects\\Address.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T18:56:50.58Z",
+              "WhenOpened": "2024-11-16T22:10:00.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "Storium.Domain\\Entities\\Product.cs",
-              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Entities\\Product.cs",
-              "RelativeToolTip": "Storium.Domain\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T18:56:17.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Currency.cs",
-              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Enums\\Currency.cs",
-              "RelativeDocumentMoniker": "Storium.Domain\\Enums\\Currency.cs",
-              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Enums\\Currency.cs",
-              "RelativeToolTip": "Storium.Domain\\Enums\\Currency.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T18:55:39.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
               "Title": "Money.cs",
               "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\ValueObjects\\Money.cs",
               "RelativeDocumentMoniker": "Storium.Domain\\ValueObjects\\Money.cs",
               "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\ValueObjects\\Money.cs",
               "RelativeToolTip": "Storium.Domain\\ValueObjects\\Money.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T18:54:35.181Z",
+              "WhenOpened": "2024-11-16T22:02:48.948Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Entities\\OrderItem.cs",
-              "RelativeDocumentMoniker": "Storium.Domain\\Entities\\OrderItem.cs",
-              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Entities\\OrderItem.cs",
-              "RelativeToolTip": "Storium.Domain\\Entities\\OrderItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "DocumentIndex": 17,
+              "Title": "GetOrderDetailsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Application\\Handlers\\Queries\\Orders\\GetOrderDetailsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Storium.Application\\Handlers\\Queries\\Orders\\GetOrderDetailsQueryHandler.cs",
+              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Application\\Handlers\\Queries\\Orders\\GetOrderDetailsQueryHandler.cs",
+              "RelativeToolTip": "Storium.Application\\Handlers\\Queries\\Orders\\GetOrderDetailsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T18:53:44.658Z",
+              "WhenOpened": "2024-11-16T22:00:48.453Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "OrderStatus.cs",
-              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Enums\\OrderStatus.cs",
-              "RelativeDocumentMoniker": "Storium.Domain\\Enums\\OrderStatus.cs",
-              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Enums\\OrderStatus.cs",
-              "RelativeToolTip": "Storium.Domain\\Enums\\OrderStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "MoneyDto.cs",
+              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Application\\DTOs\\MoneyDto.cs",
+              "RelativeDocumentMoniker": "Storium.Application\\DTOs\\MoneyDto.cs",
+              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Application\\DTOs\\MoneyDto.cs",
+              "RelativeToolTip": "Storium.Application\\DTOs\\MoneyDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T18:51:45.57Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "Storium.Domain\\Entities\\Order.cs",
-              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Entities\\Order.cs",
-              "RelativeToolTip": "Storium.Domain\\Entities\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T18:50:15.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Storium.Domain.csproj",
-              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Storium.Domain.csproj",
-              "RelativeDocumentMoniker": "Storium.Domain\\Storium.Domain.csproj",
-              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Storium.Domain.csproj",
-              "RelativeToolTip": "Storium.Domain\\Storium.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-16T18:49:28.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Entities\\Customer.cs",
-              "RelativeDocumentMoniker": "Storium.Domain\\Entities\\Customer.cs",
-              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Domain\\Entities\\Customer.cs",
-              "RelativeToolTip": "Storium.Domain\\Entities\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T18:48:40.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Test.Integration\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "Storium.Test.Integration\\UnitTest1.cs",
-              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Test.Integration\\UnitTest1.cs",
-              "RelativeToolTip": "Storium.Test.Integration\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T18:00:37.212Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Projects\\storium-ddd\\Storium\\Storium.Test.Unit\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "Storium.Test.Unit\\UnitTest1.cs",
-              "ToolTip": "C:\\Projects\\storium-ddd\\Storium\\Storium.Test.Unit\\UnitTest1.cs",
-              "RelativeToolTip": "Storium.Test.Unit\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T18:00:04.428Z",
+              "WhenOpened": "2024-11-16T22:00:32.528Z",
               "EditorCaption": ""
             }
           ]

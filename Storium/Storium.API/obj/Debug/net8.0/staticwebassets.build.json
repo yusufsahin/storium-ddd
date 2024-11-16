@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Qz7MM22XqLjQn41Kv1ACjfwhgE/6/5+w7oO6E0oBsvk=",
+  "Source": "Storium.API",
+  "BasePath": "_content/Storium.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

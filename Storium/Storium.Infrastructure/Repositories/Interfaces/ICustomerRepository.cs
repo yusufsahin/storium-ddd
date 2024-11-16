@@ -9,5 +9,6 @@ namespace Storium.Infrastructure.Repositories.Interfaces
         Task AddAsync(Customer customer);
         Task UpdateAsync(Customer customer);
         Task DeleteAsync(Guid id);
+        Task<bool> ExistsByEmailAsync(String email);
     }
 }

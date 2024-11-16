@@ -47,5 +47,11 @@ namespace Storium.Infrastructure.Repositories
                 await _context.SaveChangesAsync();
             }
         }
+
+        public async Task<bool> ExistsByEmailAsync(string email)
+        {
+            return await _context.Customers.AnyAsync(c => c.Email == email);
+
+        }
     }
 }

@@ -2,6 +2,8 @@
 {
     public class Address
     {
+        private object zipCode;
+
         public string Street { get; private set; }
         public string City { get; private set; }
         public string State { get; private set; }
@@ -23,6 +25,14 @@
             State = state;
             PostalCode = postalCode;
             Country = country;
+        }
+
+        public Address(string street, string city, string state, object zipCode)
+        {
+            Street = street;
+            City = city;
+            State = state;
+            this.zipCode = zipCode;
         }
     }
 }
